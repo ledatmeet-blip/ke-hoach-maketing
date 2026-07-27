@@ -3,6 +3,7 @@
   "routes": [
     { "src": "/api/(.*)", "dest": "/api/$1" },
     { "src": "/images/(.*)", "dest": "/images/$1" },
+    { "src": "/cam-nang-thanh-vien.pdf", "dest": "/cam-nang-thanh-vien.pdf" },
     { "src": "/lamour-marketing-plan.html", "dest": "/lamour-marketing-plan.html" },
     { "src": "/suoi-giang-marketing-plan.html", "dest": "/suoi-giang-marketing-plan.html" },
     { "src": "/(.*\\.html)", "dest": "/$1" },
